@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "bus.h": "c",
+        "fileparser.h": "c",
+        "typeinfo": "c",
+        "labeltable.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+}
